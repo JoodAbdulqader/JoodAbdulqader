@@ -1,4 +1,4 @@
-# Create the updated README.html file with the user's LinkedIn and email, and without Twitter.
+
 html_content = """<!DOCTYPE html>
 <html lang="en">
 <head>
